@@ -1,0 +1,30 @@
+<div style="float:left;">Самочувствие хорошее</div>	 <div style="float:right;">Самочувствие плохое</div>
+<div style="float:left">Чувствую себя сильным</div>	 <div style="float:right">Чувствую себя слабым</div>
+<div style="float:left">Пассивный</div>			 <div style="float:right">Активный</div>
+<div style="float:left">Малоподвижный</div>		 <div style="float:right">Подвижный</div>
+<div style="float:left">Веселый</div>			 <div style="float:right">Грустный</div>
+<div style="float:left">Хорошее настроение</div>	 <div style="float:right">Плохое настроение</div>
+<div style="float:left">Работоспособный</div>		 <div style="float:right">Разбитый</div>
+<div style="float:left">Полный сил</div>		 <div style="float:right">Обессиленный</div>
+<div style="float:left">Медлительный</div>		 <div style="float:right">Быстрый</div>
+<div style="float:left">Бездеятельный</div>		 <div style="float:right">Деятельный</div>
+<div style="float:left">Счастливый</div>		 <div style="float:right">Несчастный</div>
+<div style="float:left">Жизнерадостный</div>		 <div style="float:right">Мрачный</div>
+<div style="float:left">Напряженный</div>		 <div style="float:right">Расслабленный</div>
+<div style="float:left">Здоровый</div>			 <div style="float:right">Больной</div>
+<div style="float:left">Безучастный</div>		 <div style="float:right">Увлеченный</div>
+<div style="float:left">Равнодушный</div>		 <div style="float:right">Взволнованный</div>
+<div style="float:left">Восторженный</div>		 <div style="float:right">Унылый</div>
+<div style="float:left">Радостный</div>			 <div style="float:right">Печальный</div>
+<div style="float:left"><Отдохнувший</div>		 <div style="float:right">Усталый</div>
+<div style="float:left">Свежий</div>			 <div style="float:right">Изнуренный</div>
+<div style="float:left">Сонливый</div>			 <div style="float:right">Возбужденный</div>
+<div style="float:left">Желание отдохнуть</div>		 <div style="float:right">Желание работать</div>
+<div style="float:left">Спокойный</div>			<div style="float:right">Озабоченный</div>
+<div style="float:left">Оптимистичный</div> 		<div style="float:right">Пессимистичный</div>
+<div style="float:left">Выносливый</div> 		<div style="float:right">Утомляемый</div>
+<div style="float:left">Бодрый</div>			 <div style="float:right">Вялый</div>
+<div style="float:left">Соображать трудно</div>		 <div style="float:right">Соображать легко</div>
+<div style="float:left">Рассеянный</div> 		<div style="float:right">Внимательный</div>
+<div style="float:left">Полный надежд</div>		 <div style="float:right">Разочарованный</div>
+<div style="float:left">Довольный</div>			 <div style="float:right">Недовольный</div>

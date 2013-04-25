@@ -1,0 +1,11 @@
+#!/bin/bash
+
+files=$(ls | grep [.]ui)
+for f in $files
+do
+newfile=$(echo $f | grep -Eo '[^.{3}$]') 
+newfile=$(echo $newfile | sed 's/ \+//g')
+newfile=$newfile'.py'
+#echo $newfile
+pyuic4 $f > $newfile
+done
